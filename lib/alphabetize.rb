@@ -7,15 +7,15 @@ def alphabetize(arr)
       when "ĉ"
         reformatted << "c"
       when "ĝ"
-        reformatted << "c"
+        reformatted << "g"
       when "ĥ"
-        reformatted << "c"
+        reformatted << "h"
       when "ĵ"
-        reformatted << "c"
+        reformatted << "j"
       when "ŝ"
-        reformatted << "c"
+        reformatted << "s"
       when "ŭ"
-        reformatted << "c"
+        reformatted << "u"
       else
         reformatted << char
       end
