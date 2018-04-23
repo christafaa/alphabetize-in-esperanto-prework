@@ -6,5 +6,18 @@ def alphabetize(arr)
     phrase.each_char do |char|
       case char
       when "ĉ"
+        reformatted << "c"
+      when "ĉ"
+        reformatted << "c"
+      when "ĉ"
+        reformatted << "c"
+      when "ĉ"
+        reformatted << "c"
+      when "ĉ"
+        reformatted << "c"
+      when "ĉ"
+        reformatted << "c"
+      when "ĉ"
+        reformatted << "c"
 
 end
