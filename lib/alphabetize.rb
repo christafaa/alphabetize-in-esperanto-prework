@@ -18,4 +18,8 @@ def alphabetize(arr)
         reformatted << "c"
       else
         reformatted << char
+      end
+    result << reformatted
+  end
+  result.sort
 end
