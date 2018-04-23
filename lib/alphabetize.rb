@@ -19,6 +19,7 @@ def alphabetize(arr)
       else
         reformatted << char
       end
+    end
     result << reformatted
   end
   result.sort
