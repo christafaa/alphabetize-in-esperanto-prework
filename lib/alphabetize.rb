@@ -20,7 +20,7 @@ def alphabetize(arr)
         reformatted << char
       end
     end
-    result[]
+    result[phrase] => reformatted
   end
   result.sort
 end
