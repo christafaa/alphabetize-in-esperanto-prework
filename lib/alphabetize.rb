@@ -2,7 +2,9 @@ def alphabetize(arr)
   weird_chars = "ĉĝĥĵŝŭ"
   result = []
   arr.each do |phrase|
+    reformatted = ""
     phrase.each_char do |char|
-      if weird_chars.include?(char)
+      case char
+      when "ĉ"
 
 end
