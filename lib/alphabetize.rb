@@ -1,5 +1,6 @@
 def alphabetize(arr)
-  ALPHABET = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
-  result = {}
+  weird_chars = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
+  result = []
   arr.each do |phrase|
+    
 end
