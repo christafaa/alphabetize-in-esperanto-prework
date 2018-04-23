@@ -22,5 +22,5 @@ def alphabetize(arr)
     end
     result[phrase] = reformatted
   end
-  p sorted_arr = result.values.sort
+  result.keys.sort_by {}
 end
