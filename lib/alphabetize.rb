@@ -22,5 +22,5 @@ def alphabetize(arr)
     end
     result[phrase] => reformatted
   end
-  sorted_arr = 
+  sorted_arr = result.values.sort
 end
