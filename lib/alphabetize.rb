@@ -7,17 +7,16 @@ def alphabetize(arr)
       case char
       when "ĉ"
         reformatted << "c"
-      when "ĉ"
+      when "ĝ"
         reformatted << "c"
-      when "ĉ"
+      when "ĥ"
         reformatted << "c"
-      when "ĉ"
+      when "ĵ"
         reformatted << "c"
-      when "ĉ"
+      when "ŝ"
         reformatted << "c"
-      when "ĉ"
+      when "ŭ"
         reformatted << "c"
-      when "ĉ"
-        reformatted << "c"
-
+      else
+        reformatted << char
 end
