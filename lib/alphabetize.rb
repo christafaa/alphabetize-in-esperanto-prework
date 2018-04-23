@@ -1,5 +1,5 @@
 def alphabetize(arr)
-  result = []
+  result = {}
   arr.each do |phrase|
     reformatted = ""
     phrase.each_char do |char|
